@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Allama Iqbal</title>
+    <style>
+        body {
+            border: 3px solid black; /* Adds a 5px solid black border */
+            margin: 20px; /* Adds space between the border and the edge of the page */
+            padding: 20px; /* Adds space inside the border */
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align: center; color: grey;">
+        ALLAMA IQBAL
+    </h1>
+    <hr>
+    <img src="https://i.pinimg.com/736x/83/55/c3/8355c3a8be5589a2f21b2291b1e6b202.jpg" alt="Image is not avalible" width="100" height="150" >
+    <hr>
+    <div>
+    <h2 style="color: brown;">
+        Summary
+    </h2>
+    <p style="margin-left: 2%; margin-right:2%;">
+      <strong>Allama Iqbal</strong>, born on <em>November 9, 1877, in Sialkot</em>, Punjab, was a renowned South Asian Muslim philosopher, poet, and politician. He is widely regarded as one of the most influential figures in <strong>Urdu and Persian literature</strong>. Iqbal's poetry and philosophical works emphasized self-realization, spiritual awakening, and the revival of Islamic thought. His vision of a separate homeland for Muslims in British India played a pivotal role in inspiring the creation of Pakistan. Often referred to as "Muffakir-e-Pakistan" (The Thinker of Pakistan) and "Shair-e-Mashriq" (The Poet of the East), Iqbal's legacy continues to inspire millions. He passed away on <em>April 21, 1938</em>, but his ideas and works remain deeply influential in the cultural and intellectual spheres of South Asia.
+    </p>
+    </div>
+    <div>
+        <hr>
+        <h2 style="color: brown;">
+            Background
+        </h2>
+        <p style="margin-left: 2%; margin-right:2%;"
+        >
+            Allama Iqbal was born in Sialkot, British India (now Pakistan). He came from a <strong>Kashmiri family</strong> with a strong Islamic background. His early education was in Sialkot and Lahore, where he excelled in academics. He later studied in <em>Europe</em>, earning degrees in philosophy from the <strong>University of Cambridge</strong> and a doctorate from the <strong>University of Munich</strong>. Influenced by both Eastern and Western thought, Iqbal became a renowned philosopher, poet, and advocate for Muslim empowerment. His ideas laid the intellectual foundation for the creation of Pakistan.
+        </p>
+    </div>
+    <hr>
+    <div>
+        <h2 style="color: brown;">
+            Personal Life
+        </h2>
+        <p style="margin-left: 2%; margin-right:2%;">
+            Allama Iqbal's personal life was marked by simplicity and dedication to his intellectual and spiritual pursuits. He was born into a devout Muslim family in Sialkot, British India (now Pakistan), on November 9, 1877. His father, Sheikh Noor Muhammad, was a tailor and a pious man, while his mother, Imam Bibi, was a caring and supportive figure.
+<br>
+Iqbal married three times. His first marriage was to Karim Bibi, with whom he had two children, a son, Aftab Iqbal, and a daughter, Miraj Begum. The marriage faced difficulties and eventually ended in separation. He later married Sardar Begum, with whom he had a son, Javed Iqbal, who became a prominent judge. His third marriage was to Mukhtar Begum, but it was short-lived.
+<br>
+Iqbal was deeply devoted to his children, especially his son Javed, to whom he dedicated many of his poems. Despite his busy intellectual and political life, he maintained a close connection with his family. He lived a modest life, focusing on his work as a poet, philosopher, and advocate for Muslim rights.
+        </p>
+    </div>
+    <hr>
+    <div>
+        <h2 style="color: brown;">
+            Early Education
+        </h2>
+        <p style="margin-left: 2%; margin-right:2%;">
+            Allama Iqbal's early education began in his hometown of Sialkot, British India (now Pakistan). He received his initial schooling at a traditional madrasa, where he learned Arabic, Persian, and the Quran. His talent was recognized early by his teacher, Syed Mir Hassan, who played a significant role in shaping his intellectual foundation.
+            <br>
+
+At the age of 15, Iqbal moved to Lahore for higher education. He enrolled at the Government College Lahore, where he studied philosophy, English literature, and Arabic. He earned a Bachelor of Arts degree in 1897 and a Master of Arts in philosophy in 1899, graduating at the top of his class. During this time, he also began writing poetry and became associated with prominent literary figures of the time.
+<br>
+His early education laid the groundwork for his later achievements as a philosopher, poet, and thinker, blending Eastern and Western intellectual traditions
+        </p>
+    </div>
+    <p style="text-align: right;">Page no....</p>
+</body>
+</html>
