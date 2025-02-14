@@ -1,1 +1,1 @@
-![Step 1](results.png.png)
+![Step 1](results.png)
