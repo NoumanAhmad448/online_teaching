@@ -1,0 +1,112 @@
+HTML
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index02.css">
+</head>
+<body>
+    <div>
+        <h2>
+            <u>
+                Vegetables
+            </u>
+        </h2>
+        <p>
+            Vegetables are nutrient-dense foods rich in vitamins, minerals, and fiber, essential for maintaining a healthy diet and preventing diseases. They come in a variety of colors, flavors, and textures, making them versatile for cooking and meal preparation. Regular consumption of vegetables supports digestion, boosts immunity, and promotes overall well-being.
+        </p>
+        <ol>
+            <li>
+                Vegetables are a cornerstone of a healthy diet, providing essential nutrients like vitamins, minerals, fiber, and antioxidants that support overall health. They are low in calories and fat, making them ideal for weight management and maintaining a balanced lifestyle. Eating a variety of vegetables, such as leafy greens, root vegetables, and cruciferous veggies, ensures a diverse intake of nutrients.
+            </li>
+            <li>
+                Regular consumption can reduce the risk of chronic diseases like heart disease, diabetes, and certain cancers. Incorporating vegetables into meals not only enhances flavor and texture but also promotes long-term well-being and vitality.
+            </li>
+        </ol>
+        <button type="button">click me</button>
+    </div>    
+    <div class="image-container">
+        <img src="Fruits.png" alt="placeholder" width="200" height="200">
+        <div class="text-overlay">
+            <h2>
+                <u>
+                    Fruits
+                </u>     
+            </h2>
+            <p> 
+                Fruits are nature's sweet and nutritious gifts, packed with vitamins and antioxidants. They come in a vibrant array of colors, flavors, and textures, delighting our senses. From apples to mangoes, fruits are essential for a healthy, balanced diet.
+            </p>
+            <ol>
+                <li>
+                    Fruits are nutrient-rich foods packed with vitamins, minerals, fiber, and antioxidants, essential for maintaining good health and preventing diseases. They come in a wide variety of flavors, colors, and textures, making them a versatile addition to meals and snacks. Regular consumption of fruits supports digestion, boosts immunity, and reduces the risk of chronic conditions like heart disease and diabetes.
+                </li>
+                <li>
+                    Culturally, fruits hold symbolic significance in many traditions and are celebrated in festivals and rituals worldwide. Including a diverse range of fruits in your diet ensures a balanced intake of essential nutrients for overall well-being.
+                </li>
+
+            </o>
+            <button type="button">click me</button>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>
+</body>
+</html>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+CSS
+
+
+body{
+    display: flex;
+      align-items: center;
+      gap: 10px; /* Space between paragraphs and image */
+      margin: 20px;
+      padding: 20px;
+      background-color: #f9f9f9;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.text-overlay{
+    padding-left: 3rem !important;
+    width: 70%;
+}
+h2{
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    font-weight: bold;
+    color: #ff7b00;
+}
+p ol > li{
+    text-align: justify;
+    font-size: large;
+}
+button{
+    padding: 0.5rem 1rem;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 2rem !important;
+    text-transform: capitalize;
+}
+button:hover{
+    background-color: white;
+    color: #611212;
+    border: 1px dotted #611212;
+}
