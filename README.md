@@ -11,8 +11,8 @@
    ```
    Ass_3/index.html
    ```  
-   This will create a folder named `Ass_3` and a file inside it named `index.html`.  
-   ![Step 2](p2.png)
+   This will create a folder named `folder_name` and a file inside it named `index.html`.  
+   ![Step 3](p3.png)
 
 3. **Add Your Code**  
    Paste or write your HTML code in the editor at the bottom of the page.  
