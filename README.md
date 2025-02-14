@@ -18,9 +18,17 @@
    Paste or write your HTML code in the editor at the bottom of the page.  
    ![Step 3](p3.png)
 
-4. **Commit the Changes**  
+4. **Upload other files**  
+   Choose upload file option
+   ![Step 4](p4.png)
+
+5. **Choose files**  
+   upload all other files
+   ![Step 5](p5.png)
+
+6. **Commit the Changes**  
    Scroll down and click on the `Commit changes` button. Make sure to select the `master` branch (or create a new branch if required).  
 
-5. **Submit**  
+7. **Submit**  
    Click on the `Submit` button to save your changes.  
 
