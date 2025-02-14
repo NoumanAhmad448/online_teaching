@@ -1,3 +1,5 @@
+[Fix issues](/fix_issues.md)
+
 # Uploading Assignments
 
 ## Step 1: Creating a New File in the Master Branch
